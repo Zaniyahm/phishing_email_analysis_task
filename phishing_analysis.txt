@@ -1,0 +1,23 @@
+Phishing Email Analysis - Cyber Security Internship Task
+Sender Email: microsoft@email-records.com
+1. Spoofed Sender:
+   - Appears to be Microsoft, but domain is suspicious (not @microsoft.com).
+
+2. Suspicious Link:
+- Visible link says "Confirm Account", but actual URL is http://microsoft-security-check.com (NOT Microsoft's domain).
+
+3. Urgent Language:
+   - "Failure to act within 24 hours" is a classic scare tactic.
+
+4. Generic Greeting:
+   - Starts with "Dear User" instead of my actual name.
+
+5. Grammar & Style:
+   - No spelling mistakes, but robotic tone which is common in phishing.
+
+6. Missing Headers:
+- Since this was a sample, I couldn't view real email headers. But a real header check would reveal SPF/DKIM failure or domain mismatch.
+
+Conclusion:
+This email has multiple phishing indicators and should NOT be trusted.
+
